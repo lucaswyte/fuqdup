@@ -1,0 +1,2 @@
+# fuqdup
+GitHub Pages
